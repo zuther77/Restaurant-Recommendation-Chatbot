@@ -1,5 +1,6 @@
-# Restaurant Recommendation and Reservation Chatbot using AWS Services
+# Restaurant Recommendation Chatbot
 Cloud Computing Assignment 1 (CS-GY 9223)
+Made in colloboration with - https://github.com/abhishek66642
 
 ### Description
 In this assignment you have implement a serverless, microservice-driven web application. Specifically, you will build a Dining Concierge chatbot that sends you restaurant suggestions given a set of preferences that you provide the chatbot with through conversation.
