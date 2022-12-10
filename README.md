@@ -1,5 +1,4 @@
 # Restaurant Recommendation Chatbot
-Cloud Computing Assignment 1 (CS-GY 9223)
 Made in colloboration with - https://github.com/abhishek66642
 
 ### Description
