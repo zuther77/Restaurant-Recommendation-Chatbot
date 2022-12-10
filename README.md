@@ -2,13 +2,13 @@
 Made in colloboration with - https://github.com/abhishek66642
 
 ### Description
-In this assignment you have implement a serverless, microservice-driven web application. Specifically, you will build a Dining Concierge chatbot that sends you restaurant suggestions given a set of preferences that you provide the chatbot with through conversation.
+In this assignment we have implement a serverless, microservice-driven web application. Specifically, we built a Dining Concierge chatbot that sends you restaurant suggestions given a set of preferences that you provide the chatbot with through conversation.
 
 The restaurant data is scraped from Yelp API. It is a collection 5000+ unique restaurants if varying cuisines specifically in Manhattan. While we have only scraped it for Manhattan it can easily be extended to more locations.
 
 It contains field suchs as Resturant_ID, Name, Location Coordinates, Cuisine, Number of Reviews and more.
 
-Our chatbot will give us reccomendations filtered by cuisine given by the user and some other inputs from the user such as number of people,reservation date and time.
+Our chatbot will give you reccomendations filtered by cuisine given by the user and some other inputs from the user such as number of people,reservation date and time.
 
 ### AWS Services
 For achieving this we will be using the following AWS Services for the same.
